@@ -10,7 +10,7 @@ author_profile: true
 - Prognostics and health management
 - Reliability engineering
 - Bayesian statistics
-- Risk assessment and management}
+- Risk assessment and management
 
 #### Career
 - 2020.11 - present, Hyundai Mobis, Korea
