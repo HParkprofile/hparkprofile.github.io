@@ -2,7 +2,6 @@
 layout: single
 author_profile: true
 ---
-
 ####  Research Interests
 - Data analytics
 - Data scientist
