@@ -3,13 +3,13 @@ layout: single
 author_profile: False
 ---
 
- '
-  Assistant Manager, Ph. D. /  
-  Data Science Team  
-  HYUNDAI MOBIS  
+`
+Assistant Manager, Ph. D. /  
+Data Science Team  
+HYUNDAI MOBIS  
    
-  E-mail: pjh3226 (at) gmail (dot) com
-  '
+E-mail: pjh3226 (at) gmail (dot) com
+`
   
 ####  Research Interests
 - Data analytics
