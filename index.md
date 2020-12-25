@@ -13,7 +13,9 @@ __Jihyun Park__
 `Assistant Manager, Ph. D.`  
 `Data Science Team`  
 `HYUNDAI MOBIS`  
-  
+
+`E-mail: pjh3226 (at) gmail (dot) com`
+
 ####  Research Interests
 - Data analytics
 - Data scientist
