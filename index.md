@@ -5,7 +5,7 @@ author_profile: false
 ---
 
 
-<img src="https://github.com/HParkprofile/hparkprofile.github.io/blob/master/unnamed.jpg" width="180" height="250">
+<img src="https://github.com/HParkprofile/hparkprofile.github.io/blob/master/unnamed.jpg" width="200" height="250">
 
 __Jihyun Park__
 
