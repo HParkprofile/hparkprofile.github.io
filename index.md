@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-<img src="https://user-images.githubusercontent.com/76548856/103131389-e6e1a480-46e3-11eb-9626-528929effcee.jpg" width="200" height="250">
+<img src="/images/unnamed.jpg" width="200" height="250">
 
 __Jihyun Park__
 
