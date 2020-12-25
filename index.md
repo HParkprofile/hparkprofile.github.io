@@ -7,14 +7,12 @@ author_profile: true
 
 <img src="/images/unnamed.jpg" width="200" height="250">
 
+
 __Jihyun Park__
 
 `Assistant Manager, Ph. D.`  
 `Data Science Team`  
 `HYUNDAI MOBIS`  
-   
-`E-mail: pjh3226 (at) gmail (dot) com`
-
   
 ####  Research Interests
 - Data analytics
@@ -62,7 +60,8 @@ __Jihyun Park__
     - The Proposal for Supplier Evaluation Program operated by HYUNDAI Motor Group; Sponsor: The Korean Society for Quality Management; PI: Prof. Suneung Ahn; 2014.06 - 2014.12
     - Developing Mixed Competing Risks Models for the Complex System; Sponsor: National Research Foundation of Korea; PI: Prof. Suneung Ahn; 2012.08 - 2015.04
     
-#### Publications ([Google Scholar](https://scholar.google.com/citations?hl=en&user=NWQlAukAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F6FbDzdCqhkmH5E_BT0ykXDWLUg9zb8jvh7x8kBGgI5KfVUgX5qbYOWDKX4NfVggNsxJPkJ5ILcHADUoI6kA6ts7HGN4zrcTWZT8VU8R7l_j0iKItA))
+#### Publications ([Google Scholar](https://scholar.google.com/citations?hl=en&user=NWQlAukAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F6FbDzdCqhkmH5E_BT0ykXDWLUg9zb8jvh7x8kBGgI5KfVUgX5qbYOWDKX4NfVggNsxJPkJ5ILcHADUoI6kA6ts7HGN4zrcTWZT8VU8R7l_j0iKItA)) ([Repository](https://github.com/HParkprofile/Papers))
+
 - International
     - Lee, J., Park, J., & Ahn, S. (2018). On determining a non-periodic preventive maintenance schedule using the failure rate threshold for a repairable system. Smart Structures and Systems, 22(2), 151-159.
     - Park, J., Lee, J., & Ahn, S. (2018). Bayesian Approach for Estimating the Probability of Cartel Penalization under the Leniency Program. Sustainability, 10(6), 1-15.
