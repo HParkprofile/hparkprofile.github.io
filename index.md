@@ -4,12 +4,13 @@ author_profile: False
 classes: wide
 ---
 
-`
-Assistant Manager, Ph. D. /  
+__Jihyun Park__
+
+`Assistant Manager, Ph. D.  
 Data Science Team  
-HYUNDAI MOBIS  
+HYUNDAI MOBIS`  
    
-E-mail: pjh3226 (at) gmail (dot) com
+`E-mail: pjh3226 (at) gmail (dot) com`
 `
   
 ####  Research Interests
