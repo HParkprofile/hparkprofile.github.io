@@ -1,0 +1,9 @@
+- International
+  - Lee, J., Park, J., & Ahn, S. (2018). On determining a non-periodic preventive maintenance schedule using the failure rate threshold for a repairable system. Smart Structures and Systems, 22(2), 151-159.
+  - Park, J., Lee, J., & Ahn, S. (2018). Bayesian Approach for Estimating the Probability of Cartel Penalization under the Leniency Program. Sustainability, 10(6), 1-15.
+  - Park, J., Park, C., & Ahn, S. (2018). Assessment of structural risks using the fuzzy weighted Euclidean FMEA and block diagram analysis. The International Journal of Advanced Manufacturing Technology, 1-10.
+- Domestic
+  - Jihyun Park, Myeongjoon Song, Suneung Ahn. (2020). Developing the Fault Diagnostics and Prognostics Model of a Rotating Machinery. Journal of the Korean Operations Research and Management Science Society, 45(1), 25-38.
+  - Seonghwan Park, Jihyun Park, Kiho Bae, Suneung Ahn. (2017). Constructing a Competing Risks Model for the Combined Structure with Dependent Relations. Journal of the Society of Korea Industrial and Systems Engineering, 40(3), 92-98.
+  - Jihyun Park, Changsoon Park, Suneung Ahn. (2016). Aircraft Operational Risk Assessment Model using Fuzzy-FMEA. Journal of The Korean Institute of Plant Engineering, 21, 67-75.
+  - Jihyun Park, Suneung Ahn. (2013). Developing an Equilibrium Analysis Model of Cartel Game under Leniency Programs. Journal of the Society of Korea Industrial and Systems Engineering, 36(4), 77-83.
