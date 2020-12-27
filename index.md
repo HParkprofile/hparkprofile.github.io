@@ -34,9 +34,9 @@ __Jihyun Park__
 #### Education
 - 2013.03 - 2019.02, Hanyang University, Korea 
     - Ph.D. in Department of Industrial and Management Engineering
-    - Adviser: Dr. Suneung Ahn
-        - Laboratory: Information Analysis & Decision System Lab.
-        - Thesis: Development of Data-driven Diagnostics and Prognostics Model using Vibration Signals in Engineering Systems (공학시스템의 진동신호를 이용한 데이터 주도 상태진단 및 고장예측 모형 개발)
+      - Adviser: Dr. Suneung Ahn
+      - Laboratory: Information Analysis & Decision System Lab.
+      - Thesis: Development of Data-driven Diagnostics and Prognostics Model using Vibration Signals in Engineering Systems (공학시스템의 진동신호를 이용한 데이터 주도 상태진단 및 고장예측 모형 개발)
 - 2009.03 - 2013.02, Hanyang University ERICA campus, Korea 
     - B.S. in Industrial and Management Engineering
 
@@ -89,8 +89,7 @@ __Jihyun Park__
     - 박지현, 박창순, & 안선응. (2015). Fuzzy-FMEA을 이용한 항공 안전관리 리스크 평가 모형. 한국산업경영시스템학회 학술대회, 38-42.
     - 박지현, 윤원상, & 안선응. (2015). ISO/TS 16949 기반의 신차개발 프로세스에 관한 제조사별 비교, 한국품질경영학회 학술대회, 301-302.
     - 윤원상, 박지현, 배기호, & 안선응. (2014). ISO/TS 16949 기반의 자동차 산업의 협력업체 평가제도 비교분석, 한국품질경영학회 학술대회, 372-373.
-    - 박지현, 윤원상, 배기호, & 안선응. (2014).
-    - 항공 사고 예방을 위한 FOQA 데이터를 이용한 실시간 안전진단시스템 개발, 한국품질경영학회 학술대회, 296-297.
+    - 박지현, 윤원상, 배기호, & 안선응. (2014). 항공 사고 예방을 위한 FOQA 데이터를 이용한 실시간 안전진단시스템 개발, 한국품질경영학회 학술대회, 296-297.
     - 박지현, 윤원상, 배기호, & 안선응. (2014). 현대자동차그룹의 협력사 평가제도 문제점 분석 및 개선방안 연구, 한국품질경영학회 학술대회, 370-371.
     - 박지현, & 안선응. (2014). 담합적발확률 추정을 위한 베이지안 접근법. 한국경영과학회 학술대회논문집, 1884-1890.
     - 전종선, 박성환, 배기호, 이주현, 박지현, 안선응. (2014). 스마트 디바이스를 이용한 중소기업용 WMS솔루션 개발. 한국품질경영학회 춘계학술발표논문집, 233-234.
