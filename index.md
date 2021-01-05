@@ -9,6 +9,7 @@ author_profile: true
 
 
 __Jihyun Park__
+[![HitCount](http://hits.dwyl.com/hparkprofile/hparkprofilegithubio.svg)](http://hits.dwyl.com/hparkprofile/hparkprofilegithubio)
 
 `Assistant Manager, Ph. D.`  
 `Data Science Team`  
@@ -115,4 +116,4 @@ __Jihyun Park__
 - Honor scholarship, Hanyang University, 2014
 
 
-[![HitCount](http://hits.dwyl.com/hparkprofile/hparkprofilegithubio.svg)](http://hits.dwyl.com/hparkprofile/hparkprofilegithubio)
+
