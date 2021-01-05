@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "HPark"
-  avatar           : "/images/profile.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/main.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a Data scientist <br> in manufacuring field."
   location         : "Republic of Korea"
   email            : "pjh3226@gmail.com"
