@@ -8,7 +8,7 @@ author_profile: true
 <img src="/images/unnamed.jpg" width="200" height="250">
 
 
-__Jihyun Park__
+__Jihyun Park__  
 [![HitCount](http://hits.dwyl.com/hparkprofile/hparkprofilegithubio.svg)](http://hits.dwyl.com/hparkprofile/hparkprofilegithubio)
 
 `Assistant Manager, Ph. D.`  
@@ -114,6 +114,4 @@ __Jihyun Park__
 - Top scholarship, Hanyang University, 2013
 - Research assistant scholarship, Hanyang University, 2014
 - Honor scholarship, Hanyang University, 2014
-
-
 
