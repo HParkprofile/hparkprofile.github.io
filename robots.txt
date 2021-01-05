@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hparkprofile.github.io/sitemap.xml
