@@ -113,3 +113,6 @@ __Jihyun Park__
 - Top scholarship, Hanyang University, 2013
 - Research assistant scholarship, Hanyang University, 2014
 - Honor scholarship, Hanyang University, 2014
+
+
+[![HitCount](http://hits.dwyl.com/hparkprofile/hparkprofilegithubio.svg)](http://hits.dwyl.com/hparkprofile/hparkprofilegithubio)
