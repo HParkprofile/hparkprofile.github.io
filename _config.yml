@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "HPark"
   avatar           : "/images/main.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a Data scientist <br> in manufacuring field."
+  bio              : "I am a Data scientist <br> in manufacuring field. <br> [![HitCount](http://hits.dwyl.com/hparkprofile/hparkprofilegithubio.svg)](http://hits.dwyl.com/hparkprofile/hparkprofilegithubio)"
   location         : "Republic of Korea"
   email            : "pjh3226@gmail.com"
   links:
