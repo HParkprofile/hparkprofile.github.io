@@ -27,9 +27,9 @@ __Jihyun Park__
 - Risk assessment and management
 
 #### Career
-- 2020.11 - present, Hyundai Mobis, Korea
+- 2020.11 - present, HYUNDAI Mobis, Korea
     - Data Science Team  
-- 2019.04 - 2020.10, Korea Shipbuilding & Offshore Engineering , Korea
+- 2019.04 - 2020.10, Korea Shipbuilding & Offshore Engineering(KSOE), Korea
     - Artificial Intelligence PM / Advanced Technology Research Institute
     
 #### Education
