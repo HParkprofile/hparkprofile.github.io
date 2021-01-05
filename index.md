@@ -1,6 +1,7 @@
 ---
 layout: single
 classes: wide
+sitemap: true
 author_profile: true
 ---
 
