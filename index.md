@@ -7,7 +7,6 @@ author_profile: true
 
 
 <img src="/images/unnamed.jpg" width="200" height="250">  
-[![HitCount](http://hits.dwyl.com/hparkprofile/hparkprofilegithubio.svg)](http://hits.dwyl.com/hparkprofile/hparkprofilegithubio)
 
 ### Jihyun Park  
 
