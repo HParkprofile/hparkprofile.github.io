@@ -120,7 +120,6 @@ author:
 
 # Site Footer
 footer:
-  "<script id="_waumd4">var _wau = _wau || []; _wau.push(["dynamic", "3yysv9ged9", "md4", "666666ffffff", "small"]);</script><script async src="//waust.at/d.js"></script>"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
