@@ -97,7 +97,7 @@ author:
   avatar           : "/images/main.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a Data scientist <br> in manufacuring field."
   location         : "Republic of Korea"
-  email            : "pjh3226@gmail.com"
+  # email            : "pjh3226@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
