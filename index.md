@@ -10,7 +10,7 @@ author_profile: true
 
 ### Jihyun Park  
 
-`Assistant Manager, Ph. D.`  
+`Senior Manager, Ph. D.`  
 `Data Science Team`  
 `HYUNDAI MOBIS`  
 
@@ -26,10 +26,10 @@ author_profile: true
 - Risk assessment and management
 
 #### Career
-- 2020.11 - present, HYUNDAI Mobis, Korea
-    - Data Science Team  
+- 2020.11 - Present, HYUNDAI Mobis, Korea
+    - Senior Manger, Data Science Team  
 - 2019.04 - 2020.10, Korea Shipbuilding & Offshore Engineering(KSOE), Korea
-    - Artificial Intelligence PM / Advanced Technology Research Institute
+    - Senior Researcher, Artificial Intelligence PM / Advanced Technology Research Institute
     
 #### Education
 - 2013.03 - 2019.02, Hanyang University, Korea 
@@ -53,6 +53,8 @@ author_profile: true
     - Bayesian Inference, 2013
 
 #### Research Experience
+- Senior Manger (at HYUNDAI Mobis)
+    - Datascience in manufacturing field
 - Senior Researcher (at KSOE)
     - AI based Monitoring system
 - Research Assistant (at HYU)
@@ -76,6 +78,8 @@ author_profile: true
 
 #### Conferences
 - International
+    - Jihyun Park, Dongwook Yang, Young-Dae Shim, Eun-Ho Lee. Eddy Current-based Monitoring System for Hairpin Coils in Electric Vehicle Motors. 2023 IEEE International Conference on Industrial Engineering and Engineering Management (December 2023)
+    - Jihyun Park, Joonhyung Park. Real-time RUL Prediction Model of Lithium-ion Battery based on Bayesian Approach. Asia Pacific Conference of the Prognostics and Health Management Society. (PHMAP 2021)
     - Jihyun Park, Juhyun Lee, Suneung Ahn. Age replacement model using the parameter estimation of Weibull distribution with censored lifetimes. 9th IEEE Annual Conference on Prognostics and Health Management. (June 2018)
     - Juhyun Lee, Jihyun Park, Suneung Ahn. On Determination of the Non-periodic Preventive Maintenance Scheduling with the Failure Rate Threshold for Repairable System. Asia Pacific Conference of the Prognostics and Health Management Society 2017. (July 2017)
     - Jihyun Park, Juhyun Lee, Suneung Ahn. Comparing the parameter estimation methods of Weibull distribution with censored lifetime. Asia Pacific Conference of the Prognostics and Health Management Society 2017. (July 2017)
@@ -98,6 +102,9 @@ author_profile: true
     - 박지현, 이주현, & 안선응. (2013). 자진신고자 감면제도하의 담합 적발률 추정과 담합분석모형 개발. 한국경영과학회 학술대회논문집, 1457-1463.
     - 전종선, 한선하, 박지현, 이주현, & 안선응. (2012). 대형복합시스템에 대한 예방보전 정책의 결정. 대한산업공학회 추계학술대회 논문집, 760-766.
     
+#### Patents
+- 
+
 #### Awards
 - Best paper: Developing the fault diagnostics and prognostics model of Rotating Machinery, 2019 추계학술대회, 한국경영과학회. (2019.10)
 - Best paper: Optimal replacement policy with Weibull distributions under progressive censoring (점진적 중도절단인 와이블분포의 최적교체정책 개발), 2018 춘계학술대회, 한국신뢰성학회. (2018.05) 
@@ -113,4 +120,3 @@ author_profile: true
 - Top scholarship, Hanyang University, 2013
 - Research assistant scholarship, Hanyang University, 2014
 - Honor scholarship, Hanyang University, 2014
-
