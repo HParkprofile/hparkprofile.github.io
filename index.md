@@ -10,7 +10,7 @@ author_profile: true
 
 ### Jihyun Park  
 
-`Assistant Manager, Ph. D.`  
+`Senior Manager, Ph. D.`  
 `Data Science Team`  
 `HYUNDAI MOBIS`  
 
@@ -26,10 +26,10 @@ author_profile: true
 - Risk assessment and management
 
 #### Career
-- 2020.11 - present, HYUNDAI Mobis, Korea
-    - Data Science Team  
+- 2020.11 - Present, HYUNDAI Mobis, Korea
+    - Senior Manger, Data Science Team  
 - 2019.04 - 2020.10, Korea Shipbuilding & Offshore Engineering(KSOE), Korea
-    - Artificial Intelligence PM / Advanced Technology Research Institute
+    - Senior Researcher, Artificial Intelligence PM / Advanced Technology Research Institute
     
 #### Education
 - 2013.03 - 2019.02, Hanyang University, Korea 
