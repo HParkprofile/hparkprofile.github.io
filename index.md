@@ -85,6 +85,7 @@ author_profile: true
     - Jihyun Park, Juhyun Lee, Suneung Ahn. Comparing the parameter estimation methods of Weibull distribution with censored lifetime. Asia Pacific Conference of the Prognostics and Health Management Society 2017. (July 2017)
     - Jihyun Park, Changsoon Park, Suneung Ahn. Evaluating the Structural Risks Using the Fuzzy Weighted Euclidean FMEA and Risk Block Diagram Analysis. 26th International Conference on Flexible Automation and Intelligent Manufacturing. (June 2016)
 - Domestic
+    - 박지현, 심영대, 양동욱, & 이은호 (2022). 와전류 센싱 기반 금속소재 기계적 물성 예측. 한국자동차공학회 추계학술대회논문집, 1530-1530.
     - 박지현, 송명준, & 안선응. (2019). 회전기기에 대한 마코프체인 몬테카를로 시뮬레이션(MCMC) 기반 데이터 주도 고장진단 및 예측 모형 개발. 한국경영과학회 박사학위논문 경진대회.
     - 박지현, 송명준, & 안선응. (2018). 중도절단 와이블분포의 모수추정방법론을 이용한 신뢰도 추정. 한국경영과학회 학술대회논문집, 1877-1884.
     - 배기호, 박지현, & 안선응. (2017). 대여 장비의 신뢰도 한계 기반 예방보전 정책의 결정. 한국경영과학회 학술대회논문집, 5456-5467.
