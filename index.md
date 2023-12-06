@@ -104,7 +104,7 @@ author_profile: true
     - 전종선, 한선하, 박지현, 이주현, & 안선응. (2012). 대형복합시스템에 대한 예방보전 정책의 결정. 대한산업공학회 추계학술대회 논문집, 760-766.
 
 #### Patents
-
+ - 박준형, 박지현. 추정분포 기반 공정인자 관리장치 및 방법. KR20230013919A. (2021) 
     
 #### Awards
 - Best paper: Developing the fault diagnostics and prognostics model of Rotating Machinery, 2019 추계학술대회, 한국경영과학회. (2019.10)
