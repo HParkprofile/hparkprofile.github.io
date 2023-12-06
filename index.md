@@ -53,6 +53,8 @@ author_profile: true
     - Bayesian Inference, 2013
 
 #### Research Experience
+- Senior Manager (at Hyundai Mobis)
+    - AI in manufacturing field
 - Senior Researcher (at KSOE)
     - AI based Monitoring system
 - Research Assistant (at HYU)
@@ -76,6 +78,8 @@ author_profile: true
 
 #### Conferences
 - International
+    - Jihyun Park, Dongwook Yang, Young-Dae Shim, Eun-Ho Lee. Eddy Current-based Monitoring System for Hairpin Coils in Electric Vehicle Motors. 2023 IEEE International Conference on Industrial Engineering and Engineering Management. (December 2023)
+    - Jihyun Park, Junhyung Park. Real-time RUL Prediction Model of Lithium-ion Battery based on Bayesian Approach. Asia Pacific Conference of the Prognostics and Health Management Society 2021. (June 2021)
     - Jihyun Park, Juhyun Lee, Suneung Ahn. Age replacement model using the parameter estimation of Weibull distribution with censored lifetimes. 9th IEEE Annual Conference on Prognostics and Health Management. (June 2018)
     - Juhyun Lee, Jihyun Park, Suneung Ahn. On Determination of the Non-periodic Preventive Maintenance Scheduling with the Failure Rate Threshold for Repairable System. Asia Pacific Conference of the Prognostics and Health Management Society 2017. (July 2017)
     - Jihyun Park, Juhyun Lee, Suneung Ahn. Comparing the parameter estimation methods of Weibull distribution with censored lifetime. Asia Pacific Conference of the Prognostics and Health Management Society 2017. (July 2017)
@@ -97,6 +101,9 @@ author_profile: true
     - 전종선, 한선하, 박지현, 이주현, & 안선응. (2013). 대형시스템의 예방보전 정책. 대한산업공학회 춘계공동학술대회 논문집, 2533-2538.
     - 박지현, 이주현, & 안선응. (2013). 자진신고자 감면제도하의 담합 적발률 추정과 담합분석모형 개발. 한국경영과학회 학술대회논문집, 1457-1463.
     - 전종선, 한선하, 박지현, 이주현, & 안선응. (2012). 대형복합시스템에 대한 예방보전 정책의 결정. 대한산업공학회 추계학술대회 논문집, 760-766.
+
+#### Patens
+
     
 #### Awards
 - Best paper: Developing the fault diagnostics and prognostics model of Rotating Machinery, 2019 추계학술대회, 한국경영과학회. (2019.10)
