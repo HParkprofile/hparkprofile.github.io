@@ -9,7 +9,7 @@ author_profile: true
 <img src="/images/unnamed.jpg" width="200" height="250">  
 
 ### Jihyun Park  
-## Data Scientist
+#### Data Scientist
 
 `Senior Manager, Ph. D.`  
 `Data Science Team`  
