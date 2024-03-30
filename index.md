@@ -9,7 +9,7 @@ author_profile: true
 <img src="/images/unnamed.jpg" width="200" height="250">  
 
 ### Jihyun Park  
-#### Data Scientist
+##### Data Scientist
 
 `Senior Manager, Ph. D.`  
 `Data Science Team`  
@@ -55,9 +55,9 @@ author_profile: true
 
 #### Research Experience
 - Senior Manager (at Hyundai Mobis)
-    - AI in manufacturing field
+    - AI in manufacturing field ------ confidential
 - Senior Researcher (at KSOE)
-    - AI based Monitoring system
+    - AI based Monitoring system ------ confidential
 - Research Assistant (at HYU)
     - Developing the intelligent failure diagnosis and predictive maintenance policy for IoT based environment-friendly engineering systems; Sponsor: National Research Foundation of Korea; PI: Prof. Suneung Ahn; 2018.03 - 2019.02
     - Developing Condition based Predictive Maintenance Models for High Risk Complex Systems using Bayesian Approach and Physics of Failure; Sponsor: National Research Foundation of Korea; PI: Prof. Suneung Ahn; 2016.06 - 2018.05
