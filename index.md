@@ -9,6 +9,7 @@ author_profile: true
 <img src="/images/unnamed.jpg" width="200" height="250">  
 
 ### Jihyun Park  
+## Data Scientist
 
 `Senior Manager, Ph. D.`  
 `Data Science Team`  
@@ -26,7 +27,7 @@ author_profile: true
 - Risk assessment and management
 
 #### Career
-- 2020.11 - present, Senior Manger, HYUNDAI Mobis, Korea
+- 2020.11 - present, Senior Manager, HYUNDAI Mobis, Korea
     - Data Science Team  
 - 2019.04 - 2020.10, Senior Researcher, Korea Shipbuilding & Offshore Engineering(KSOE), Korea
     - Artificial Intelligence PM / Advanced Technology Research Institute
@@ -67,6 +68,7 @@ author_profile: true
 #### Publications ([Google Scholar](https://scholar.google.com/citations?hl=en&user=NWQlAukAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F6FbDzdCqhkmH5E_BT0ykXDWLUg9zb8jvh7x8kBGgI5KfVUgX5qbYOWDKX4NfVggNsxJPkJ5ILcHADUoI6kA6ts7HGN4zrcTWZT8VU8R7l_j0iKItA)) ([Repository](https://github.com/HParkprofile/Papers))
 
 - International
+    - Y. -D. Shim, J. Kim, C. Kim, J. Park, D. -W. Yang and E. -H. Lee (2024). Evaluation of Mechanical Properties Considering Uncertainties for Hairpin Coils in Electric Vehicle Motor Manufacturing. IEEE Access, 12, 45318-45330.
     - Lee, J., Park, J., & Ahn, S. (2018). On determining a non-periodic preventive maintenance schedule using the failure rate threshold for a repairable system. Smart Structures and Systems, 22(2), 151-159.
     - Park, J., Lee, J., & Ahn, S. (2018). Bayesian Approach for Estimating the Probability of Cartel Penalization under the Leniency Program. Sustainability, 10(6), 1-15.
     - Park, J., Park, C., & Ahn, S. (2018). Assessment of structural risks using the fuzzy weighted Euclidean FMEA and block diagram analysis. The International Journal of Advanced Manufacturing Technology, 1-10.
