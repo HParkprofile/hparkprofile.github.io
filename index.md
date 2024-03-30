@@ -55,9 +55,9 @@ author_profile: true
 
 #### Research Experience
 - Senior Manager (at Hyundai Mobis)
-    - AI in manufacturing field ------ confidential
+    - AI in manufacturing field ------ *confidential*
 - Senior Researcher (at KSOE)
-    - AI based Monitoring system ------ confidential
+    - AI based Monitoring system ------ *confidential*
 - Research Assistant (at HYU)
     - Developing the intelligent failure diagnosis and predictive maintenance policy for IoT based environment-friendly engineering systems; Sponsor: National Research Foundation of Korea; PI: Prof. Suneung Ahn; 2018.03 - 2019.02
     - Developing Condition based Predictive Maintenance Models for High Risk Complex Systems using Bayesian Approach and Physics of Failure; Sponsor: National Research Foundation of Korea; PI: Prof. Suneung Ahn; 2016.06 - 2018.05
