@@ -29,7 +29,8 @@ author_profile: true
 
 #### Career
 - 2020.11 - present, Senior Manager, HYUNDAI Mobis, Korea
-    - Data Science Team  
+    - Data Science Team
+    - Manufacturing IT Team
 - 2019.04 - 2020.10, Senior Researcher, Korea Shipbuilding & Offshore Engineering(KSOE), Korea
     - Artificial Intelligence PM / Advanced Technology Research Institute
     
