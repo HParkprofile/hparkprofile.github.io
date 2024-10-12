@@ -22,9 +22,10 @@ author_profile: true
 - Data scientist
 - Artificial intelligence
 - Prognostics and health management
-- Reliability engineering
-- Bayesian statistics
-- Risk assessment and management
+- Manufacturing process optimization
+- Reinforcement learning 
+- Large language model (LLM) and Retrieval-Augmented Generation (RAG)
+
 
 #### Career
 - 2020.11 - present, Senior Manager, HYUNDAI Mobis, Korea
@@ -42,9 +43,11 @@ author_profile: true
     - B.S. in Industrial and Management Engineering
 
 #### Technical Skills
-- Data analytics software: Python, R
-- Deep learning framework library: pymc, theano, keras
-- Data analytics platform: Apache Hadoop, Spark
+-	Data analytics software: Python, R
+-	Deep learning framework library: tensorflow, theano, keras
+-	Data analytics platform: Spark, Hive, Kubeflow, Tableau, PowerBI, GCP BigQuery
+-	Database: MS SQL, Postgre, MongoDB, ChormaDB
+
 
 #### Academic Experience
 - Teaching Assistant (at Hanyang University)
@@ -56,6 +59,7 @@ author_profile: true
 #### Research Experience
 - Senior Manager (at Hyundai Mobis)
     - AI in manufacturing field ------ *confidential*
+    - Chatbot based on sLLM
 - Senior Researcher (at KSOE)
     - AI based Monitoring system ------ *confidential*
 - Research Assistant (at HYU)
@@ -110,6 +114,7 @@ author_profile: true
  - 박준형, 박지현. 추정분포 기반 공정인자 관리장치 및 방법. KR20230013919A. (2021) 
     
 #### Awards
+- Best paper: RUL prediction model of Lithium-ion battery based on Bayesian MCMC method, 2021 HYUNDAI MOTOR GROUP CONFERENCE (현대자동차그룹 학술대회)
 - Best paper: Developing the fault diagnostics and prognostics model of Rotating Machinery, 2019 추계학술대회, 한국경영과학회. (2019.10)
 - Best paper: Optimal replacement policy with Weibull distributions under progressive censoring (점진적 중도절단인 와이블분포의 최적교체정책 개발), 2018 춘계학술대회, 한국신뢰성학회. (2018.05) 
 - 장려상: 소외계층 등록금 지원을 위한 크라우드 펀딩 시스템 구축, 2014 한양 적정기술 아이디어 경진대회, 한양대학교 한양적정기술연구회. (2014.11)
