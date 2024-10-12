@@ -60,6 +60,7 @@ author_profile: true
 #### Research Experience
 - Senior Manager (at Hyundai Mobis)
     - AI in manufacturing field ------ *confidential*
+    - Internal lecturer in part of AI
     - Chatbot based on sLLM
 - Senior Researcher (at KSOE)
     - AI based Monitoring system ------ *confidential*
