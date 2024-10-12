@@ -45,7 +45,7 @@ author_profile: true
 
 #### Technical Skills
 -	Data analytics software: Python, R
--	Deep learning framework library: tensorflow, theano, keras
+-	Deep learning framework library: tensorflow, theano, keras, Pytorch, Langchain
 -	Data analytics platform: Spark, Hive, Kubeflow, Tableau, PowerBI, GCP BigQuery
 -	Database: MS SQL, Postgre, MongoDB, ChormaDB
 
