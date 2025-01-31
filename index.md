@@ -112,8 +112,7 @@ author_profile: true
     - 전종선, 한선하, 박지현, 이주현, & 안선응. (2012). 대형복합시스템에 대한 예방보전 정책의 결정. 대한산업공학회 추계학술대회 논문집, 760-766.
 
 #### Patents
- - 류동우, 박지현. 생산 공정 모니터링 시스템 및 그의 동작 방법. KR20230161706A. (2023)
- - 박준형, 박지현. 추정분포 기반 공정인자 관리장치 및 방법. KR20230013919A. (2021) 
+ - Apparatus and method for measuring physical properties of hairpin coils, and method of forming hairpin coils based on the same. Ji Hyun Park; Dong Wook Yang; Eun Ho Lee; Young Dae SHIM. US Patent US20240151758A1 (2024) & KR Patent KR1020220146149A (2022)
     
 #### Awards
 - Best paper: RUL prediction model of Lithium-ion battery based on Bayesian MCMC method, 2021 HYUNDAI MOTOR GROUP CONFERENCE (현대자동차그룹 학술대회)
